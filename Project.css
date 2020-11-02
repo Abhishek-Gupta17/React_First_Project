@@ -1,0 +1,31 @@
+.Search {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+  }
+
+  .Title {
+    text-align: center;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    /* margin-bottom: 1em; */
+    background-color: black;
+    color: lightblue;
+  }
+
+.list{
+    margin-left: 500px;
+    /* text-align: ; */
+}
+
+li{
+    display: inline;
+}
+
+/* p{
+    margin-left: 550px;
+    margin-right: 800px;
+} */
